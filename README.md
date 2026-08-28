@@ -23,3 +23,14 @@
 - Cinemachine
 - Unity Animation Rigging
 - Mobile UI
+
+## Screenshots Angry Jason
+
+![Gameplay 1](ScreenshotsAJ/AJ gameplay-01.png)
+![Gameplay 2](ScreenshotsAJ/AJ gameplay-02.png)
+![Gameplay 2](ScreenshotsAJ/AJ gameplay-03.png)
+![Gameplay 2](ScreenshotsAJ/AJ gameplay minigame-05)
+![Gameplay 2](ScreenshotsAJ/AJ gameplay driving-06)
+![Character](ScreenshotsAJ/AJ Character.png)
+![UI](ScreenshotsAJ/AJ ui-screen.png)
+![UI](ScreenshotsAJ/AJ ui-screen2.png)
