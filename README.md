@@ -15,3 +15,11 @@
 - Minigame systems
 - Character customization concepts
 - Progression systems
+
+## Tech Stack
+
+- Unity
+- C#
+- Cinemachine
+- Unity Animation Rigging
+- Mobile UI
