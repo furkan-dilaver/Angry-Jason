@@ -1,2 +1,8 @@
-# Angry-Jason
-A stylized virtual pet mobile game built in Unity, focused on character interactions, emotions, minigames, and playful progression.
+# Angry Jason
+
+> A stylized virtual pet mobile game prototype built in Unity.
+
+**Status:** Prototype / In Active Development  
+**Engine:** Unity  
+**Platform:** Mobile  
+**Developer:** Solo Developer
